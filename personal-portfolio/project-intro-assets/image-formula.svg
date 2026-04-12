@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="180" viewBox="0 0 720 180">
+  <rect width="720" height="180" rx="20" ry="20" fill="#ffffff" stroke="#cbd5e1" stroke-width="2"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#0f172a">
+    L = (1 - α) · [-log p_t] + α · [- 1/c Σ_{i=1}^c log p_i]
+  </text>
+</svg>

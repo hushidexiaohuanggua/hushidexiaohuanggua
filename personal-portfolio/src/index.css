@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+/* Global baseline styles for smooth dark-theme rendering. */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: #0a0a0a;
+  color: #ffffff;
+  font-family: Inter, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
